@@ -7,4 +7,4 @@ Below one can see the main topics of the tutorials with the name of the branches
 2. lesson2-database: Through this tutorial I created a database for the polls app and I worked on the automatically-generated admin site. 
 3. lesson3-view: Starting from views I worked on URLpatterns and templates.
 4. lesson4-template: Changed some codes with their generic version. Generic
-views help us to write shorter codes.
+views help us to write shorter codes. 
